@@ -1,0 +1,323 @@
+.header .wrapper
+{
+	width:80%;
+	margin:auto;
+	
+}
+.header
+{
+	height:75px;
+	background-color:grey;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .start
+{
+	height:55px;
+	width:225px;
+	background-color:black;
+}
+.header .header-fc .detail
+{
+	height:55px;
+	width:530px;
+	background-color:black;
+}
+.welcome.wrapper
+{
+	width:80%;
+	margin:auto;
+	
+}
+.welcome
+{
+	height:675px;
+	background-color:grey;
+}
+.welcome .welcome-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.welcome .welcome-fc .texta
+{
+	height:150px;
+	width:450px;
+	background-color:black;
+	margin-top:80px;
+}
+.welcome .welcome-fc .textb
+{
+	height:100px;
+	width:1000px;
+	background-color:black;
+	margin-top:80px;
+}
+.welcome .welcome-fc .textc
+{
+	height:75px;
+	width:450px;
+	background-color:black;
+	margin-top:80px;
+}
+.started.wrapper
+{
+	width:80%;
+	margin:auto;
+	
+}
+.started
+{
+	height:675px;
+	background-color:white;
+}
+.started .started-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.started .started-fc .texta
+{
+	height:100px;
+	width:450px;
+	background-color:black;
+	margin-top:80px;
+}
+.started .started-fc .textb
+{
+	height:100px;
+	width:1000px;
+	background-color:black;
+	margin-top:80px;
+}
+.started .started-fc .textc
+{
+	height:75px;
+	width:450px;
+	background-color:black;
+	margin-top:80px;
+}
+.service .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.service
+{
+	height:570px;
+	background-color:brown;
+}
+.service .service-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.service .service-fc .texta
+{
+	height:80px;
+	width:1200px;
+	background-color:lightblue;
+	margin-top:100px;
+}
+.service .service-fc .boxa
+{
+	height:190px;
+	width:250px;
+	background-color:lightblue;
+	margin-top:80px;
+}
+.service .service-fc .boxb
+{
+	height:190px;
+	width:250px;
+	background-color:lightblue;
+	margin-top:80px;
+}
+.service .service-fc .boxc
+{
+	height:190px;
+	width:250px;
+	background-color:lightblue;
+	margin-top:80px;
+}
+.service .service-fc .boxd
+{
+	height:190px;
+	width:250px;
+	background-color:lightblue;
+	margin-top:80px;
+}
+.image .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.image
+{
+	height:490px;
+	width:100%;
+	background-color:lightgrey;
+}
+.image .image-fc 
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.image .image-fc .imga
+{
+	height:245px;
+	width:449px;
+	background-color:white;
+}
+.image .image-fc .imgb
+{
+	height:245px;
+	width:449px;
+	background-color:white;
+}
+.image .image-fc .imgc
+{
+	height:245px;
+	width:449px;
+	background-color:white;
+}
+.image .image-fc .imgd
+{
+	height:245px;
+	width:449px;
+	background-color:white;
+}
+.image .image-fc .imge
+{
+	height:245px;
+	width:449px;
+	background-color:white;
+}
+.image .image-fc .imgf
+{
+	height:245px;
+	width:449px;
+	background-color:white;
+}
+.download .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.download
+{
+	height:390px;
+	background-color:grey;
+}
+.download .download-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.download .download-fc .texta
+{
+	height:150px;
+	width:450px;
+	background-color:black;
+	margin-top:50px;
+}
+.download .download-fc .textb
+{
+	height:100px;
+	width:1000px;
+	background-color:black;
+	margin-top:30px;
+}
+.details
+{
+	height:1150px;
+	background-color:lightblue;
+	
+}
+.details .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.details .details-fc
+{
+	display:flex;
+	flex-direction:column;
+	flex-wrap:wrap;
+	align-items:center;
+	
+}
+.details .details-fc .boxa
+{
+	height:300px;
+	width:100%;;
+	background-color:white;
+	margin-top:40px;
+}
+.details .details-fc .boxb
+{
+	height:57px;
+	width:600px;
+	background-color:white;
+	margin-top:40px;
+}
+.details .details-fc .boxc
+{
+	height:57px;
+	width:600px;
+	background-color:white;
+	margin-top:40px;
+}
+.details .details-fc .boxd
+{
+	height:57px;
+	width:600px;
+	background-color:white;
+	margin-top:40px;
+}
+.details .details-fc .boxe
+{
+	height:150px;
+	width:600px;;
+	background-color:white;
+	margin-top:40px;
+}
+.details .details-fc .boxf
+{
+	height:57px;
+	width:600px;
+	background-color:white;
+	margin-top:40px;
+}
+.details .details-fc .boxg
+{
+	height:57px;
+	width:600px;
+	background-color:white;
+	margin-top:40px;
+}
+.website
+{
+background-color: black;
+height:120px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.website .website-fc .box
+{
+	width:300px;
+	height:90px;
+	background-color:white;
+	margin-top:15px;
+}
